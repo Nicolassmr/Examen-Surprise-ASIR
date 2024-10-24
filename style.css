@@ -1,0 +1,33 @@
+span.caja1 {
+    background-color: blue;
+    width: 33%;
+    height: 400px;
+    display: inline-block;
+}
+
+span.caja2 {
+    background-color: red;
+    width: 33%;
+    height: 400px;
+    display: inline-block;
+}
+
+span.caja3 {
+    background-color: yellow;
+    width: 33%;
+    height: 400px;
+    display: inline-block;
+}
+
+span.caja4 {
+    background-color: brown;
+    width: 3000px;
+    height: 50px;
+    display: inline-block;
+}
+
+div.caja5 {
+    background-color: aqua;
+    width: 3000px;
+    height: 20px;
+}
